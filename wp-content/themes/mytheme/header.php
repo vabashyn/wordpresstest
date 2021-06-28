@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>HTML Document</title>
+    <?php wp_head(); ?>
 </head>
 <body>
 <div class="wrapper">

@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 <main>
+
     wp_enqueue_style();
     <div class="conetnt">
         <h1>Main Content</h1>
